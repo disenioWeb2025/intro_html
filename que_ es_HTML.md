@@ -11,16 +11,10 @@ No puede realizar operaciones lógicas ni tomar decisiones como lo haría un len
 
 ### 💻 Vamos a crear una página web sencilla usando solo HTML.
 
-Escribamos un código HTML simple para familiarizarnos con el lenguaje.
+## Tu primer código HTML
+
+Escribamos un código HTML simple para familiarizarnos con el lenguaje:
 
 ```html
-<p>Mi primera página web</p>
-````html
-No te preocupes por cómo funciona este código; lo aprenderemos en las próximas lecciones.
+<p>Mi primer página web</p>
 
-Por ahora, simplemente haga clic en el botón "Ejecutar código" y vea el resultado.
-
-<iframe src="https://trinket.io/embed/html/3ba57df4ec" width="100%" height="200" frameborder="0" allowfullscreen></iframe>
-
-
-¡Felicitaciones 🎉! Has creado tu primera página web con éxito. Es así de fácil con HTML.
