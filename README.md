@@ -1,5 +1,4 @@
 # INTRODUCCIÓN A HTML
-Tutorial interactivo para estudiantes que se inician en HTML
 
 Bienvenido al curso de introducción a HTML. En este curso aprenderás a crear la estructura de páginas web desde cero.
 ---
