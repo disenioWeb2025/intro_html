@@ -15,10 +15,12 @@ Escribamos un código HTML simple para familiarizarnos con el lenguaje.
 
 ```html
 <p>Mi primera página web</p>
+```html
 No te preocupes por cómo funciona este código; lo aprenderemos en las próximas lecciones.
 
 Por ahora, simplemente haga clic en el botón "Ejecutar código" y vea el resultado.
 
 <iframe src="https://trinket.io/embed/html/3ba57df4ec" width="100%" height="200" frameborder="0" allowfullscreen></iframe>
+
 
 ¡Felicitaciones 🎉! Has creado tu primera página web con éxito. Es así de fácil con HTML.
