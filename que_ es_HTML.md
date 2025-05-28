@@ -15,7 +15,7 @@ Escribamos un código HTML simple para familiarizarnos con el lenguaje.
 
 ```html
 <p>Mi primera página web</p>
-```html
+````html
 No te preocupes por cómo funciona este código; lo aprenderemos en las próximas lecciones.
 
 Por ahora, simplemente haga clic en el botón "Ejecutar código" y vea el resultado.
