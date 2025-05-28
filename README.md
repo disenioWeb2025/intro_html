@@ -6,7 +6,7 @@ Bienvenido al curso de introducción a HTML. En este curso aprenderás a crear l
 ## 📚 Tabla de Contenidos
 
 1. [Introducción a HTML](https://github.com/disenioWeb2025/intro_html/blob/main/Introduccion.md)
-2. [Estructura básica de una página HTML](https://github.com/disenioWeb2025/intro_html/blob/main/Estructura.md)
+2. [¿Qué es HTML?](https://github.com/disenioWeb2025/intro_html/blob/main/que_%20es_HTML.md)
 3. [Etiquetas comunes](https://github.com/disenioWeb2025/intro_html/blob/main/Etiquetas.md)
 4. [Listas y enlaces](https://github.com/disenioWeb2025/intro_html/blob/main/Listas_y_Enlaces.md)
 5. [Imágenes y multimedia](https://github.com/disenioWeb2025/intro_html/blob/main/Multimedia.md)
