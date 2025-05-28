@@ -15,9 +15,7 @@ No puede realizar operaciones lógicas ni tomar decisiones como lo haría un len
 
 Escribamos un código HTML simple para familiarizarnos con el lenguaje:
 
-```html
-<p>Mi primer página web</p>
-<iframe src="https://trinket.io/embed/html/5b6489ebc2db" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+
 
 
 No te preocupes por cómo funciona este código; lo aprenderemos en las próximas lecciones.
