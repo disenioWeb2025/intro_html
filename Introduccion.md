@@ -1,31 +1,3 @@
-# Bienvenido al curso
-
-**HTML** es el lenguaje estándar para crear páginas web. Es fundamental para adentrarse en el desarrollo web.
-
----
-
-## Acerca del curso
-
-Este es un curso enfocado para principiantes que le enseña HTML desde cero.
-
-A lo largo del curso, escribirás mucho código HTML y resolverás problemas de práctica.
-
-Al finalizar, podrás escribir código HTML con confianza y crear tu propia página web.
-
----
-
-## ¿Cómo funciona este curso?
-
-Este curso interactivo se centra en un enfoque práctico del aprendizaje. Así funciona:
-
-- **Aprende:** Explora un nuevo concepto.
-- **Practica:** Aplica el concepto con ejemplos prácticos.
-- **Evalúa:** Pon a prueba tus conocimientos a través de cuestionarios y desafíos en tiempo real.
-
-🎯 **¡Empecemos!**
-
----
-
 # Introducción a HTML
 
 **HTML** nos permite crear la estructura de una página web.
