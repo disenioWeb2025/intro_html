@@ -39,10 +39,12 @@ Con HTML podemos crear esta página web:
   - la fuente
   - el espaciado
   - el diseño visual, etc.
+ 
+    ![Estructura de una página web](https://github.com/disenioWeb2025/intro_html/raw/main/imagenes/3.png)
 
 - Con **JavaScript**, podemos agregar funcionalidad interactiva a la página web.  
   Por ejemplo: cuando se hace clic en un botón, podemos mostrar un formulario emergente.
-  ![Estructura de una página web](https://github.com/disenioWeb2025/intro_html/raw/main/imagenes/3.png)
+  ![Estructura de una página web](https://github.com/disenioWeb2025/intro_html/raw/main/imagenes/4.png)
 
 
 ---
