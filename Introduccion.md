@@ -4,7 +4,7 @@
 
 Por ejemplo, echemos un vistazo a esta página web:
 
-> (Aquí puedes insertar una imagen o iframe de ejemplo de una estructura web)
+![Estructura de una página web](https://github.com/disenioWeb2025/intro_html/raw/main/imagenes/1.png)
 
 Podemos usar HTML para crear este tipo de estructura web.  
 Sin embargo, no podemos aplicar estilos a la página web, como añadir color o cambiar las fuentes, usando solo HTML.
@@ -26,7 +26,8 @@ Normalmente, una página web moderna se crea utilizando tres "lenguajes":
 Con HTML podemos crear esta página web:
 
 > Un encabezado, una imagen, dos párrafos y un botón.  
-> (Aquí también puedes insertar una vista previa o un bloque de código)
+![Estructura de una página web](https://github.com/disenioWeb2025/intro_html/raw/main/imagenes/2.png)
+
 
 ---
 
@@ -41,6 +42,8 @@ Con HTML podemos crear esta página web:
 
 - Con **JavaScript**, podemos agregar funcionalidad interactiva a la página web.  
   Por ejemplo: cuando se hace clic en un botón, podemos mostrar un formulario emergente.
+  ![Estructura de una página web](https://github.com/disenioWeb2025/intro_html/raw/main/imagenes/3.png)
+
 
 ---
 
