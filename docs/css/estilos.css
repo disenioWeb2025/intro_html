@@ -26,6 +26,25 @@ th, td {
     vertical-align: top;
 }
 
+figure {
+    margin: 20px auto;
+    text-align: center;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 5px;
+}
+
 th {
     background-color: #fce4ec;
     color: #333;
